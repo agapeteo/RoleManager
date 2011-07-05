@@ -1,0 +1,10 @@
+# eclipse files
+.classpath
+.project
+.springBeans
+.settings/
+
+# build files
+*.class
+build/
+target/
